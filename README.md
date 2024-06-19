@@ -89,3 +89,6 @@ go-food/
 └── README.md         # Project documentation
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any features, improvements, or bug fixes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
